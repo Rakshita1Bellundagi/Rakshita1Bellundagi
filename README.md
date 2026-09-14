@@ -156,7 +156,7 @@ A web-based tournament management system with a modern frontend for managing tou
 ### ⚙️ Backend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flask,django,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=flask,django,nodejs" />
 </p>
 
 ### 🗄️ Databases
@@ -165,15 +165,9 @@ A web-based tournament management system with a modern frontend for managing tou
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
-### 🤖 Machine Learning & Data
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</p>
 
 <p align="left">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
