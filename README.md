@@ -150,13 +150,13 @@ A web-based tournament management system with a modern frontend for managing tou
 ### 🌐 Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,tailwind,angular,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,angular,nextjs" />
 </p>
 
 ### ⚙️ Backend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flask,django,nodejs" />
+<img src="https://skillicons.dev/icons?i=flask,django" />
 </p>
 
 ### 🗄️ Databases
@@ -168,13 +168,12 @@ A web-based tournament management system with a modern frontend for managing tou
 
 <p align="left">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
 ### 🔧 Tools & Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
 ---
@@ -284,7 +283,6 @@ Problem Solving             █████████████████�
 📊 Data-Driven Systems
 🗄️ Database Management Systems
 📱 User-Friendly Interfaces
-⚙️ Automation & Productivity Tools
 ```
 
 ---
