@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakshita Bellundagi</h1>
 
 <h3 align="center">
-🚀 Full-Stack Developer | 💻 Software Developer | 🤖 ML Enthusiast
+🚀 Full-Stack Developer | 💻 Software Developer |
 </h3>
 
 <p align="center">
