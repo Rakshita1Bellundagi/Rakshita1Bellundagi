@@ -178,13 +178,6 @@ A web-based tournament management system with a modern frontend for managing tou
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakshita1Bellundagi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshita1Bellundagi&layout=compact&langs_count=8&hide_border=true" />
-</p>
-
 ---
 
 # 🔥 Contribution Streak
@@ -194,12 +187,6 @@ A web-based tournament management system with a modern frontend for managing tou
 </p>
 
 ---
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshita1Bellundagi&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</p>
 
 ---
 
@@ -230,7 +217,6 @@ A web-based tournament management system with a modern frontend for managing tou
 </p>
 
 ---
-
 
 ---
 
