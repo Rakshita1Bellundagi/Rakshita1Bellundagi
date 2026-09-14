@@ -144,13 +144,13 @@ A web-based tournament management system with a modern frontend for managing tou
 ### 👨‍💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cs,php" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,php" />
 </p>
 
 ### 🌐 Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,angular,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,nextjs" />
 </p>
 
 ### ⚙️ Backend Development
