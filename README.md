@@ -1,17 +1,332 @@
 <h1 align="center">Hi 👋, I'm Rakshita Bellundagi</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [solarguard-ML](working)
+<h3 align="center">
+🚀 Full-Stack Developer | 💻 Software Developer | 🤖 ML Enthusiast
+</h3>
 
-- 👯 I’m looking to collaborate on [Pawconnect-online-pet-buying system](https://github.com/Rakshita1Bellundagi/pawconnect-online_pet_buying_system)
-
-- 🤝 I’m looking for help with [Medical Store Billing System](samruddi-med-shop.netlify.app)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/rakshita-bellundagi-1a249933a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rakshita-bellundagi-1a249933a" height="30" width="40" /></a>
-<a href="https://instagram.com/bellundagirakshita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bellundagirakshita" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Rakshita1Bellundagi">
+    <img src="https://komarev.com/ghpvc/?username=Rakshita1Bellundagi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Rakshita1Bellundagi?tab=followers">
+    <img src="https://img.shields.io/github/followers/Rakshita1Bellundagi?label=Followers&style=flat" alt="Followers"/>
+  </a>
+  <a href="https://github.com/Rakshita1Bellundagi?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View-blue?style=flat" alt="Repositories"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 👩‍💻 About Me
+
+I'm a passionate **Full-Stack Developer from India** who enjoys transforming ideas into practical, user-friendly software applications.
+
+* 💻 Building full-stack web applications
+* 🐍 Working with **Python, Flask, Django and Java**
+* ⚛️ Developing modern interfaces using **React, JavaScript, HTML and CSS**
+* 🗄️ Working with **MySQL, MongoDB and SQLite**
+* 🤖 Exploring **Machine Learning, Computer Vision and Deep Learning**
+* 🌱 Continuously improving my problem-solving and software engineering skills
+* 🤝 Open to collaborating on interesting software and ML projects
+* 🎯 Interested in building real-world applications that solve practical problems
+
+---
+
+## 🔭 What I'm Currently Working On
+
+### ☀️ SolarGuard — ML Project
+
+Working on **SolarGuard**, a machine-learning project focused on intelligent solar-panel condition/defect detection.
+
+**Focus areas:**
+
+`Machine Learning` `Computer Vision` `Deep Learning` `Image Processing` `Model Evaluation`
+
+---
+
+## 🤝 Open to Collaboration
+
+I'm interested in collaborating on:
+
+🐾 **PawConnect — Online Pet Buying System**
+
+A full-stack web application designed to provide an online platform for browsing and purchasing pets.
+
+<a href="https://github.com/Rakshita1Bellundagi/pawconnect-online_pet_buying_system">
+  <img src="https://img.shields.io/badge/View%20Project-PawConnect-blue?style=for-the-badge&logo=github" />
+</a>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧾 Medical Store Billing System
+
+A full-stack pharmacy billing and inventory management application.
+
+**Tech Stack**
+
+`Python` `Flask` `JavaScript` `SQLite`
+
+**Features**
+
+* Pharmacy billing
+* Inventory management
+* Stock monitoring
+* Expiry tracking
+* Low-stock alerts
+* Customer management
+* Authentication
+* CRUD operations
+* Reports and dashboards
+
+</td>
+
+<td width="50%">
+
+### 🐾 PawConnect
+
+An online pet buying and management platform.
+
+**Tech Stack**
+
+`Java` `JSP` `Servlets` `JDBC` `MySQL` `HTML` `CSS` `JavaScript`
+
+**Features**
+
+* User authentication
+* Pet search and filtering
+* Shopping cart
+* Checkout
+* Payment processing
+* Order management
+* Admin CRUD operations
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☀️ SolarGuard
+
+Machine-learning based solar-panel condition and defect detection project.
+
+**Focus**
+
+`Python` `Machine Learning` `Computer Vision` `Deep Learning`
+
+</td>
+
+<td width="50%">
+
+### 🏏 Cricket Tournament Management System
+
+A web-based tournament management system with a modern frontend for managing tournaments, teams, players, matches and points.
+
+**Focus**
+
+`React` `JavaScript` `UI/UX` `Database Design`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cs,php" />
+</p>
+
+### 🌐 Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,tailwind,angular,nextjs" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flask,django,nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+### 🤖 Machine Learning & Data
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
+
+### 🔧 Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakshita1Bellundagi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshita1Bellundagi&layout=compact&langs_count=8&hide_border=true" />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rakshita1Bellundagi&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshita1Bellundagi&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+# 📅 My Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakshita1Bellundagi&theme=github_dark" alt="Contribution Graph"/>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rakshita1Bellundagi&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rakshita1Bellundagi&theme=github_dark" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakshita1Bellundagi&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rakshita1Bellundagi&theme=github_dark&utcOffset=5.5" />
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rakshita1Bellundagi&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
+
+---
+
+# 📌 Repository Highlights
+
+<p align="center">
+  <a href="https://github.com/Rakshita1Bellundagi/pawconnect-online_pet_buying_system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakshita1Bellundagi&repo=pawconnect-online_pet_buying_system&hide_border=true" />
+  </a>
+</p>
+
+---
+
+# 📈 My GitHub Journey
+
+| 📌 Metric              | 📊 Description                                     |
+| ---------------------- | -------------------------------------------------- |
+| 📦 Total Repositories  | My collection of development and learning projects |
+| 💻 Contributions       | Code, commits, issues and pull requests            |
+| 🔥 Contribution Streak | Consecutive days of GitHub activity                |
+| ⭐ Stars                | Stars received across repositories                 |
+| 👥 Followers           | Developers following my work                       |
+| 🧠 Languages           | Technologies used across my repositories           |
+
+---
+
+## 🎯 Current Focus
+
+```text
+Full-Stack Development     ███████████████████░░   90%
+Machine Learning            ████████████████░░░░░   80%
+Backend Development         █████████████████░░░░   85%
+Frontend Development        ██████████████████░░░   90%
+Database Management         ████████████████░░░░░   80%
+Problem Solving             █████████████████░░░░   85%
+```
+
+---
+
+## 💡 What I Like Building
+
+```text
+🌐 Full-Stack Web Applications
+🤖 Machine Learning Applications
+📊 Data-Driven Systems
+🗄️ Database Management Systems
+📱 User-Friendly Interfaces
+⚙️ Automation & Productivity Tools
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rakshita-bellundagi-1a249933a">
+<img src="https://img.shields.io/badge/LinkedIn-Rakshita%20Bellundagi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/bellundagirakshita">
+<img src="https://img.shields.io/badge/Instagram-bellundagirakshita-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rakshita1Bellundagi">
+<img src="https://img.shields.io/badge/GitHub-Rakshita1Bellundagi-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💭 Developer Quote
+
+<p align="center">
+  <i>"Code. Learn. Build. Improve. Repeat. 🚀"</i>
+</p>
+
+---
+
+<h3 align="center">
+✨ Thanks for visiting my profile! ✨
+</h3>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and connect with me!
+</p>
