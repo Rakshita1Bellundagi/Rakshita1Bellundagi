@@ -231,21 +231,6 @@ A web-based tournament management system with a modern frontend for managing tou
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rakshita1Bellundagi&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
-
----
-
-# 📌 Repository Highlights
-
-<p align="center">
-  <a href="https://github.com/Rakshita1Bellundagi/pawconnect-online_pet_buying_system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakshita1Bellundagi&repo=pawconnect-online_pet_buying_system&hide_border=true" />
-  </a>
-</p>
 
 ---
 
